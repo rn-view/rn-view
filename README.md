@@ -1,4 +1,4 @@
-Hi, I’m R, otherwise known here as rn-view. 
+Hi, I’m Ro, otherwise known here as rn-view. 
 
 I’m currently a fellow in health research, and my current project deals with population health data. 
 
